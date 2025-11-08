@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangle-hub&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-![](https://img.shields.io/badge/code-Modern%20C++-blue)
+![](https://img.shields.io/badge/code-python-blue)
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-社恐-yello) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
